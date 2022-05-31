@@ -1,0 +1,21 @@
+{"frames": {
+
+"set.gif":
+{
+	"frame": {"x":0,"y":0,"w":288,"h":288},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":288},
+	"sourceSize": {"w":288,"h":288},
+	"anchor": {"x":1.1875,"y":0.340278}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "16.png",
+	"format": "RGBA8888",
+	"size": {"w":288,"h":288},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5b534684aeb5bf5e65cf6ebd2185a31a:cd3cd3e6e9cfc7fddb158ed8994d9516:171c92481ed70d97b548a418473175be$"
+}
+}

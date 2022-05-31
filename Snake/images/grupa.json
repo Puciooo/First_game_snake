@@ -1,0 +1,93 @@
+{"frames": {
+
+"animals.png":
+{
+	"frame": {"x":0,"y":0,"w":200,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":68},
+	"sourceSize": {"w":200,"h":68},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"blob.png":
+{
+	"frame": {"x":200,"y":0,"w":32,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":24},
+	"sourceSize": {"w":32,"h":24},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"cat.png":
+{
+	"frame": {"x":232,"y":0,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"door.png":
+{
+	"frame": {"x":296,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"dungeon.png":
+{
+	"frame": {"x":328,"y":0,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"explorer.png":
+{
+	"frame": {"x":840,"y":0,"w":21,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":32},
+	"sourceSize": {"w":21,"h":32},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"tileset.png":
+{
+	"frame": {"x":861,"y":0,"w":384,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":384},
+	"sourceSize": {"w":384,"h":384},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"treasure.png":
+{
+	"frame": {"x":1245,"y":0,"w":28,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":24},
+	"sourceSize": {"w":28,"h":24},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"treasureHunter.png":
+{
+	"frame": {"x":1273,"y":0,"w":516,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":550},
+	"sourceSize": {"w":516,"h":550},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "grupa.png",
+	"format": "RGBA8888",
+	"size": {"w":1789,"h":550},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f8abd1b7f2b32278bf1643aa176ad645:6ad11acff23e8436de82769694ca0516:24bf5daab1a7782738008178cff5bdd5$"
+}
+}
